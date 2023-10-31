@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>EEB</name>
+            <description>Department Buildings--Hughes Aircraft Electrical Engineering Center (Ming Hsieh Department of Electrical and Computer Engineering)</description>
+            <Point>
+                <coordinates>-118.28994,34.01978,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>KAP</name>
+            <description>Department Buildings--Kaprileian Hall (USC Department of Mathematics)</description>
+            <Point>
+                <coordinates>-118.29057,34.02261,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>SCA</name>
+            <description>Department Buildings--USC School of Cinematic Arts</description>
+            <Point>
+                <coordinates>-118.28656,34.02325,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

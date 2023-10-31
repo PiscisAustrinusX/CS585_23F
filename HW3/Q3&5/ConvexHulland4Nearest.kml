@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Convex Hull Polygon</name>
+        <description>Convex Hull of the points</description>
+
+        <Style id="transparentFillWithBoundary">
+            <LineStyle>
+                <color>ff0000ff</color> 
+                <width>5</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>00000000</color>
+            </PolyStyle>
+        </Style>
+
+        <Placemark>
+            <name>Convex Hull</name>
+            <styleUrl>#transparentFillWithBoundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -118.29018,34.01871 -118.29057,34.02261 -118.28055,34.03416 -118.28238,34.02108 -118.29018,34.01871
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+		
+        <Placemark>
+            <name>Line to Fubon Fountain</name>
+            <LineString>
+                <coordinates>
+                    -118.28055,34.03416 -118.285,34.0252
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Line to USC Village Honors Dining Hall</name>
+            <LineString>
+                <coordinates>
+                    -118.28055,34.03416 -118.28623,34.02564
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Line to Waterwork near Gavin Herbert Plaza</name>
+            <LineString>
+                <coordinates>
+                    -118.28055,34.03416 -118.28376,34.02257
+                </coordinates>
+            </LineString>
+        </Placemark>
+
+        <Placemark>
+            <name>Line to USC School of Cinematic Arts</name>
+            <LineString>
+                <coordinates>
+                    -118.28055,34.03416 -118.28656,34.02325
+                </coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>SSL</name>
+            <description>Libraries--Seaver Science Library</description>
+            <Point>
+                <coordinates>-118.28875,34.01980,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>LVL</name>
+            <description>Libraries--Leavey Library</description>
+            <Point>
+                <coordinates>-118.28318,34.02152,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>DML</name>
+            <description>Libraries--Doheny Memorial Library</description>
+            <Point>
+                <coordinates>-118.28412,34.02064,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

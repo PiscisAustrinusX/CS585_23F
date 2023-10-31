@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>WW1</name>
+            <description>Waterworks--Patsy and Forrest Shumway Fountain</description>
+            <Point>
+                <coordinates>-118.28544,34.02023,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>WW2</name>
+            <description>Waterworks--Pool near Gavin Herbert Plaza</description>
+            <Point>
+                <coordinates>-118.28376,34.02257,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>WW3</name>
+            <description>Waterworks--Fubon Fountain</description>
+            <Point>
+                <coordinates>-118.28500,34.02520,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

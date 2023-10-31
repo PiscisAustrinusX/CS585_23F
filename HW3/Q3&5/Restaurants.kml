@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>PKS</name>
+            <description>Restaurants--Parkside Restaurant and Grill</description>
+            <Point>
+                <coordinates>-118.29018,34.01871,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>EVK</name>
+            <description>Restaurants--Everybody Kitchen</description>
+            <Point>
+                <coordinates>-118.28238,34.02108,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>MHC</name>
+            <description>Restaurants--USC Village Honors Dining Hall</description>
+            <Point>
+                <coordinates>-118.28623,34.02564,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
